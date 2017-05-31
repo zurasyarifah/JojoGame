@@ -1,0 +1,35 @@
+#btn-play{
+	position: absolute;
+	margin: auto;
+	left:calc(50% - 64.084px);
+	/*right: 0;*/
+	top:calc(50% - 25px);
+	/*bottom: 0;*/
+	height: 50px;
+	width: 128.17px;
+}
+#btn-play : hover{
+  animation-name: bounce;
+  transform-origin: center bottom;
+
+}
+#story{
+	height: 400px;
+	width: 650px;
+	position: absolute;
+	top: 120px;
+	left: 300px;
+	margin: auto;
+}
+#btn-go{
+
+}
+
+body{
+	height: 100vh;
+}
+.background-1{
+	background-image: url(../component/img/bg-menu.png);
+	background-size:100% auto;
+	height: 100vh;
+}
