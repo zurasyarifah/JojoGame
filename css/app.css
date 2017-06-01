@@ -15,11 +15,19 @@
 }
 #story{
 	height: auto;
+<<<<<<< HEAD
 	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
+=======
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+>>>>>>> 3cace096d31e3c1c10693569b654c93b10316441
 	margin: auto;
 }
 #btn-go{
